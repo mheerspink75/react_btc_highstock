@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,WACE,eAAgB,CAChB,gBAAgB,CAChB,iBACF","file":"main.bb78aedb.chunk.css","sourcesContent":["#container {\r\n  margin-top: 50px;\r\n  margin-left:25px;\r\n  margin-right:25px;\r\n}\r\n"]}
