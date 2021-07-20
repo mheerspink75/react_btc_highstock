@@ -5,7 +5,7 @@ import HighchartsReact from "highcharts-react-official";
 
 let symbol = ["BTC"];
 
-// Get time series data
+// Get time-series data
 let dataUrl =
   "https://min-api.cryptocompare.com/data/v2/histoday?fsym=" +
   symbol +
@@ -53,7 +53,7 @@ function App() {
     chart: {
       backgroundColor: "white",
       type: "area",
-      height: "520px",
+      height: "500px",
     },
     title: {
       text: `<h1 id="chart-title">${symbol} $${price}</h1>`,
@@ -77,7 +77,7 @@ function App() {
     },
     series: [
       {
-        name: symbol.value,
+        name: symbol,
         data: data,
         tooltip: {
           valueDecimals: 2,
