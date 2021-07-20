@@ -2,7 +2,7 @@
 
 ---
 
-A time series cryptocurrency chart.
+A time series cryptocurrency chart...
 
 React Hooks, Highcharts Highstock and CryptoCompare API.
 
