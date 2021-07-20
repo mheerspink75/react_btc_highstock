@@ -1,5 +1,15 @@
-#container {
-  margin-top: 50px;
-  margin-left:25px;
-  margin-right:25px;
+body {
+  background-image: linear-gradient(to right, lightblue,  whitesmoke);
 }
+
+#container {
+  height: auto;
+  max-width:1500px;
+  margin:auto;
+  padding-top:70px;
+}
+@media only screen and (max-width: 900px) {
+  #container {
+    padding-top: 1px;
+  }
+} 
