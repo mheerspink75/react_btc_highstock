@@ -37,6 +37,7 @@ function App() {
     chart: {
       backgroundColor: "white",
       type: "line",
+      height: "700"
     },
     title: {
       text: symbol,
