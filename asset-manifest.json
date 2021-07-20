@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/react_btc_highstock/static/css/main.fd34daa0.chunk.css",
-    "main.js": "/react_btc_highstock/static/js/main.970e0579.chunk.js",
-    "main.js.map": "/react_btc_highstock/static/js/main.970e0579.chunk.js.map",
+    "main.css": "/react_btc_highstock/static/css/main.cf2ca5fd.chunk.css",
+    "main.js": "/react_btc_highstock/static/js/main.0d850ed1.chunk.js",
+    "main.js.map": "/react_btc_highstock/static/js/main.0d850ed1.chunk.js.map",
     "runtime-main.js": "/react_btc_highstock/static/js/runtime-main.2e09527b.js",
     "runtime-main.js.map": "/react_btc_highstock/static/js/runtime-main.2e09527b.js.map",
     "static/js/2.9c8590ea.chunk.js": "/react_btc_highstock/static/js/2.9c8590ea.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.6d947620.chunk.js": "/react_btc_highstock/static/js/3.6d947620.chunk.js",
     "static/js/3.6d947620.chunk.js.map": "/react_btc_highstock/static/js/3.6d947620.chunk.js.map",
     "index.html": "/react_btc_highstock/index.html",
-    "static/css/main.fd34daa0.chunk.css.map": "/react_btc_highstock/static/css/main.fd34daa0.chunk.css.map",
+    "static/css/main.cf2ca5fd.chunk.css.map": "/react_btc_highstock/static/css/main.cf2ca5fd.chunk.css.map",
     "static/js/2.9c8590ea.chunk.js.LICENSE.txt": "/react_btc_highstock/static/js/2.9c8590ea.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2e09527b.js",
     "static/js/2.9c8590ea.chunk.js",
-    "static/css/main.fd34daa0.chunk.css",
-    "static/js/main.970e0579.chunk.js"
+    "static/css/main.cf2ca5fd.chunk.css",
+    "static/js/main.0d850ed1.chunk.js"
   ]
 }
